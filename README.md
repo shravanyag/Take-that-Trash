@@ -1,3 +1,4 @@
 # Take-that-Trash
-A smart dust bin bot
+A smart dust bin bot.
+
 The project is aimed at developing an automated mobile dustbin Bot for the purpose of improving status quo garbage collection system. With more and more people becoming aware of the importance of proper garbage disposal (at least in cities like Bangalore), the issue that arises is garbage collection from these bins. Garbage trucks now have to go around looking for every bin that has been placed and empty its contents into their truck. Many a times it may happen that the bin was barely full and just for a little amount of garbage a lot of fuel and manpower go to waste. As we know, garbage collection is one of the most important steps towards ensuring cleanliness and a healthier environment. The project would be aiming at better implementation of the Swachh Bharat Abhiyaan through automated dustbin bots.
